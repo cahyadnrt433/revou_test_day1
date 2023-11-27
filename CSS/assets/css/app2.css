@@ -1,0 +1,12 @@
+h1 {
+  text-align: justify;
+  font-weight: 900;
+  text-decoration: underline overline red;
+}
+
+p {
+    /* text-align: center; 
+    font-weight: 600; */
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
